@@ -1,2 +1,2 @@
-my_list = ["apple", "cherry", "banana"]
-my_other_list = ["cucumbers", "tomatos", "zucchini"]
+my_list = ["apple", "strawberries", "banana"]
+my_other_list = ["cucumbers", "squash", "zucchini"]
